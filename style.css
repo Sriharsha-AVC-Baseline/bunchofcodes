@@ -92,10 +92,7 @@ body
     text-decoration: none;
 
 }
-.biography:hover{
-    background-color: rgb(rgb(250, 102, 102), green, blue);
-    transition: all ease 0.2s;
-}
+
 .options a:hover
 {
     background-color: red;
